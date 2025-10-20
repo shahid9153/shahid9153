@@ -3,13 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahid9153&label=Profile+Views&color=00C8FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/shahid9153?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/shahid9153?label=Stars&style=for-the-badge&color=ff69b4" alt="Stars"/>
-</p>
-
----
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -29,18 +22,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahid9153&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=shahid9153&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid9153&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <h2 align="center">💼 Featured Projects</h2>
 
