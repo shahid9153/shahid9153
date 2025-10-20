@@ -72,13 +72,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake (Dynamic Animation)</h2>
 
-<p align="center">
-  <img src="https://github.com/shahid9153/shahid9153/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 <h2 align="center">💡 Let's Collaborate on</h2>
 
