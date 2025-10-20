@@ -14,13 +14,6 @@
 
 ---
 
-<h2 align="center">🧠 Tech Universe</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,flask,streamlit,html,css,js,mysql,postgresql,powerbi,git,github,vscode,figma&theme=light" />
-</p>
-
----
 
 
 <h2 align="center">💼 Featured Projects</h2>
