@@ -47,18 +47,6 @@ I love working on real-world datasets, designing dashboards, and optimizing ML m
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahid9153&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahid9153&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid9153&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Problem-Solving & Competitive Edge
 - 🧮 Strong foundation in **Data Structures & Algorithms**  
