@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D7&width=435&lines=Hi+👋+I'm+Shahid+Mulani;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Building+Projects+and+Learning+Everyday!)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D7&width=435&lines=Hi+👋+I'm+Shahid+Mulani;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner)](https://git.io/typing-svg)
 
