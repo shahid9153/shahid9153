@@ -30,10 +30,9 @@
 <h2 align="center">🧩 Problem-Solving & Strengths</h2>
 
 ✅ Strong in **Data Structures & Algorithms**  
-✅ Creative at **debugging and logic building**  
-✅ Hands-on experience with **Agile & Jira**  
+✅ Creative at **logic building**  
 ✅ Consistent GitHub contributor and **hackathon finalist**  
-✅ Believer in continuous learning and open-source collaboration 💪  
+✅ Believer in continuous learning   
 
 ---
 
@@ -60,15 +59,7 @@
   </a>
 </p>
 
----
 
-<h2 align="center">💬 Quote to Live By</h2>
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</em>  
-  <br>  
-  <em>“The best way to predict the future is to create it.” — Peter Drucker</em>
-</p>
 
 ---
 
@@ -76,5 +67,7 @@
 
 <h2 align="center">💡 Let's Collaborate on</h2>
 
-🌐 AI & ML Projects • 🧮 Data Analytics Dashboards • 📱 Streamlit Web Apps • 🧠 NLP & Computer Vision  
-⭐ Open for internships and collaborations on **AI, Data Science, and Full-Stack ML projects**  
+🌐 AI & ML Projects  
+🧮 Data Analytics Dashboards  
+📱 Streamlit Web Apps   
+⭐ Open for internships and collaborations on **AI, Data Science and Full-Stack ML projects**  
