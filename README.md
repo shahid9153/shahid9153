@@ -8,7 +8,7 @@
 
 🎓 **B.Tech in Artificial Intelligence & Data Science (2022-2026)**  
 💻 Passionate about solving real-world problems using **AI, ML, and Data Analytics**.  
-📊 Skilled in **Python, Power BI, SQL, Streamlit, Flask**, and **Machine Learning Models**.  
+📊 Skilled in **Python, Power BI, SQL, Streamlit**, and **Machine Learning Models, ELT**.  
 🤖 Love to build **AI-powered dashboards, automation tools, and predictive models**.  
 💬 “Turning raw data into actionable insights.”  
 
@@ -23,15 +23,13 @@
 | **🌾 HarvesterHub** | Streamlit · Python · Power BI · SQL · ML | Smart AI platform helping farmers make profitable, data-backed decisions. |
 | **☀️ Solar Panel Dust Detection** | Flask · CNN · Power BI · Random Forest | AI model to detect dust and predict efficiency loss in solar panels. |
 | **👥 Employee Retention Analysis** | Python · Power BI · Excel | Predictive dashboard identifying employee churn & key retention factors. |
-| **📊 Lead Management Dashboard** | Power BI · SQL | Visual analytics for sales funnel and performance insights. |
 
 ---
 
 <h2 align="center">🧩 Problem-Solving & Strengths</h2>
 
 ✅ Strong in **Data Structures & Algorithms**  
-✅ Creative at **logic building**  
-✅ Consistent GitHub contributor and **hackathon finalist**  
+✅ Creative at **logic building**   
 ✅ Believer in continuous learning   
 
 ---
