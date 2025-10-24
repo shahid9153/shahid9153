@@ -10,7 +10,7 @@
 💻 Passionate about solving real-world problems using **AI, ML, and Data Analytics**.  
 📊 Skilled in **Python, Power BI, SQL, Streamlit**, and **Machine Learning Models, ELT**.  
 🤖 Love to build **AI-powered dashboards, automation tools, and predictive models**.  
-💬 “Turning raw data into actionable insights.”  
+💬 **Turning raw data into actionable insights.**  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ✅ Strong in **Data Structures & Algorithms**  
 ✅ Creative at **logic building**   
-✅ Believer in continuous learning   
+✅ **Believer in continuous learning**   
 
 ---
 
@@ -39,7 +39,7 @@
 🏅 2nd Place – *National Level Project Competition (PCCOER, Pune)*  
 🏅 Finalist – *Data Analysis Competition (IIT-BHU)*  
 🏅 NPTEL Certified in *Database Management System (DBMS)*  
-🏅 Completed *Data Analyst Bootcamp – Python · SQL · Power BI (Udemy)*  
+ 
 
 ---
 
