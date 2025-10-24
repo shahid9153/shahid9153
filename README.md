@@ -1,5 +1,5 @@
 <!-- 🌈 Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+Shahid+Mulani!;AI+%26+Data+Science+Engineer+💡;Data+Analyst+%7C+ML+Engineer+%7C+Problem+Solver;Transforming+Data+into+Intelligence+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+👋!,+I'm+Shahid+Mulani!;Skilled+in+AI+%26+Data+Science+;Data+Analyst+%7C+ML+%7C+Problem+Solver;Transforming+Data+into+Intelligence+🚀)](https://git.io/typing-svg)
 
 ---
 
