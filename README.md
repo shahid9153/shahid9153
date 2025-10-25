@@ -22,6 +22,7 @@
 |-------------|----------|----------------|
 | **🌾 HarvesterHub** | Streamlit · Python · Power BI · SQL · ML | Smart AI platform helping farmers make profitable, data-backed decisions. |
 | **☀️ Solar Panel Dust Detection** | Flask · CNN · Power BI · Random Forest | AI model to detect dust and predict efficiency loss in solar panels. |
+| **💻 Laptop Price Prediction** | Python · Scikit-learn · Streamlit · Pandas | Machine learning app that predicts laptop prices based on specifications like RAM, processor, GPU, and storage. |
 | **👥 Employee Retention Analysis** | Python · Power BI · Excel | Predictive dashboard identifying employee churn & key retention factors. |
 
 ---
