@@ -24,13 +24,7 @@
 | **💻 Laptop Price Prediction** | Python · Scikit-learn · Streamlit · Pandas | Machine learning app that predicts laptop prices based on specifications like RAM, processor, GPU, and storage. |
 | **👥 Employee Retention Analysis** | Python · Power BI · Excel | Predictive dashboard identifying employee churn & key retention factors. |
 
----
-
-<h2 align="center">🧩 Problem-Solving & Strengths</h2>
-
-✅ Strong in **Data Structures & Algorithms**  
-✅ Creative at **logic building**   
-✅ **Believer in continuous learning**   
+  
 
 ---
 
