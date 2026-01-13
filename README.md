@@ -60,6 +60,6 @@
 <h2 align="center">💡 Let's Collaborate on</h2>
 
 🌐 AI & ML Projects  
-🧮 Data Analytics Dashboards  
-📱 Streamlit Web Apps   
-⭐ Open for internships and collaborations on **AI, Data Science and Full-Stack ML projects**  
+🧮 Data Analytics  
+📱 Web Apps   
+
