@@ -8,34 +8,13 @@
 
 🎓 **B.Tech in Artificial Intelligence & Data Science (2022-2026)**  
 💻 Passionate about solving real-world problems using **AI, ML, and Data Analytics**.  
-📊 Skilled in **Python, Power BI, SQL, Streamlit**, and **Machine Learning Models, ELT**.  
+📊 Skilled in **Python, Power BI, SQL, Streamlit**, and **Machine Learning Models, ELT**,**RAG**,**LangChain**.  
 🤖 Love to build **AI-powered dashboards, automation tools, and predictive models**.  
 💬 **Turning raw data into actionable insights.**  
 
 ---
 
 
-
-<h2 align="center">💼 Featured Projects</h2>
-
-| 🌟 Project | ⚙️ Tools | 🧩 Description |
-|-------------|----------|----------------|
-| **🌾 HarvesterHub** | Streamlit · Python · Power BI · SQL · ML | Smart AI platform helping farmers make profitable, data-backed decisions. |
-| **💻 Laptop Price Prediction** | Python · Scikit-learn · Streamlit · Pandas | Machine learning app that predicts laptop prices based on specifications like RAM, processor, GPU, and storage. |
-| **👥 Employee Retention Analysis** | Python · Power BI · Excel | Predictive dashboard identifying employee churn & key retention factors. |
-
-  
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-🏅 2nd Place – *National Level Project Competition (PCCOER, Pune)*  
-🏅 Finalist – *Data Analysis Competition (IIT-BHU)*  
-🏅 NPTEL Certified in *Database Management System (DBMS)*  
- 
-
----
 
 <h2 align="center">🌍 Connect With Me</h2>
 
